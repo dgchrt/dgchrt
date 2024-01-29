@@ -1,16 +1,21 @@
-### Hi there 👋
+## Games
+Some video games I have published that can be played online for free:
+- [Cityscape](https://puter.com/app/cityscape) - Single-player arcade survival game
+- [Ms. Starship](https://puter.com/app/ms-starship) - Two-player arcade shooter game
+- [Mythology](https://puter.com/app/mythology) - Single-player arcade pinball game
+- [Starship](https://puter.com/app/starship) - Single-player arcade shooter game
 
-<!--
-**diogoeichert/diogoeichert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+You can find more about my projects on:
+- [Core2D](https://diogoeichert.github.io/core2d)
+- [GitHub](https://github.com/diogoeichert?tab=repositories)
+- [NPM](https://www.npmjs.com/~diogoeichert)
 
-Here are some ideas to get you started:
+## Publications
+Some of my publications:
+- [JavaScript with Classes 10th edition](https://diogoeichert.github.io/JSwC.epub) - a simple, yet effective classical OOP approach to JavaScript (a.k.a. JavaScript for grown-ups)
+- [Unified Instant Messaging Syndication Through Capabilities Negotiation and Federated User Directory](https://diogoeichert.github.io/RD633077.pdf) - one way to free them all, one way to find them, one way to bring them all and in the Internet bind them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Software
+Some of my published software:
+- [AmPod](https://puter.com/app/ampod) - Listen to your favorite music and elevate your vibe
