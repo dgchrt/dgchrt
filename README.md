@@ -9,7 +9,6 @@ Some video games I have published that can be played online for free:
 You can find more about my projects on:
 - [Core2D](https://dgchrt.github.io/core2d)
 - [GitHub](https://github.com/dgchrt?tab=repositories)
-- [NPM](https://www.npmjs.com/~dgchrt)
 
 ## Publications
 Some of my publications:
