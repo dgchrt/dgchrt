@@ -12,7 +12,7 @@ You can find more about my projects on:
 
 ## Publications
 Some of my publications:
-- [JavaScript with Classes 10th edition](https://dgchrt.github.io/JSwC.epub) - a simple, yet effective classical OOP approach to JavaScript (a.k.a. JavaScript for grown ups)
+- [JavaScript with Classes 10th edition](https://dgchrt.github.io/JSwC.epub) - a simple, yet effective classical OOP approach to JavaScript (a.k.a. JavaScript for serious work)
 - [Unified Instant Messaging Syndication Through Capabilities Negotiation and Federated User Directory](https://dgchrt.github.io/RD633077.pdf) - one way to free them all, one way to find them, one way to bring them all and in the Internet bind them
 
 ## Software
